@@ -1,10 +1,20 @@
-# 👋 Hi, I'm Aldi Kurniawan
+# 👋 Halo, Saya Aldi Kurniawan
 
-🎓 Computer Science Student at Universitas Bina Bangsa Getsempena (UBBG)
+🎓 Mahasiswa S1 Ilmu Komputer  
+🏫 Universitas Bina Bangsa Getsempena (UBBG)
 
-💻 Aspiring Full Stack Developer
+---
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Web Development.
+## 💻 Tentang Saya
+
+Saya adalah mahasiswa Ilmu Komputer yang sedang mempelajari:
+
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💬 Natural Language Processing (NLP)
+
+Saya senang membangun aplikasi web dan chatbot berbasis AI menggunakan Python dan Laravel.
 
 ---
 
@@ -13,58 +23,44 @@
 - Python
 - PHP
 - Laravel
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - MySQL
-- Streamlit
 - Flask
-- Scikit-learn
+- Streamlit
+- Scikit-Learn
 - Git
 - GitHub
 
 ---
 
-## 📚 Currently Learning
-
-- Full Stack Development
-- Machine Learning
-- NLP (Natural Language Processing)
-- REST API
-- React.js
-
----
-
-## 📌 Featured Projects
+## 📂 Project
 
 ### 🎓 UBBG Smart Campus Assistant
 
-AI Academic Chatbot using Python, Machine Learning and Streamlit.
+Chatbot akademik berbasis Artificial Intelligence menggunakan:
 
-### ❤️ Heart Disease Prediction
-
-Machine Learning model for heart disease prediction.
-
-### 🌿 Plant Disease Detection
-
-Deep Learning model using TensorFlow and Keras.
+- Machine Learning
+- NLP
+- Flask
+- Streamlit
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Target Tahun Ini
 
-- Build 10+ Portfolio Projects
-- Master Laravel
-- Learn React
-- Learn Docker
-- Learn Deployment
-- Become Full Stack Developer
+- ✅ Menguasai Laravel
+- ✅ Menguasai Full Stack Development
+- ✅ Belajar React
+- ✅ Membangun Portfolio Website
+- ✅ Mendapatkan Magang
 
 ---
 
-## 📫 Contact
+## 📫 Kontak
 
-📧 Email : aldik4914@gmail.com
+📧 Email : isi_email_kamu
 
 GitHub :
-https://github.com/aldi-kurniawanYX-01
+https://github.com/NAMA_USERNAME_KAMU
