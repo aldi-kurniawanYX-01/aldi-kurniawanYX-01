@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Aldi Kurniawan
 
-<!--
-**aldi-kurniawanYX-01/aldi-kurniawanYX-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Universitas Bina Bangsa Getsempena (UBBG)
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Web Development.
+
+---
+
+## 🚀 Tech Stack
+
+- Python
+- PHP
+- Laravel
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Streamlit
+- Flask
+- Scikit-learn
+- Git
+- GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Full Stack Development
+- Machine Learning
+- NLP (Natural Language Processing)
+- REST API
+- React.js
+
+---
+
+## 📌 Featured Projects
+
+### 🎓 UBBG Smart Campus Assistant
+
+AI Academic Chatbot using Python, Machine Learning and Streamlit.
+
+### ❤️ Heart Disease Prediction
+
+Machine Learning model for heart disease prediction.
+
+### 🌿 Plant Disease Detection
+
+Deep Learning model using TensorFlow and Keras.
+
+---
+
+## 🎯 2026 Goals
+
+- Build 10+ Portfolio Projects
+- Master Laravel
+- Learn React
+- Learn Docker
+- Learn Deployment
+- Become Full Stack Developer
+
+---
+
+## 📫 Contact
+
+📧 Email : aldik4914@gmail.com
+
+GitHub :
+https://github.com/aldi-kurniawanYX-01
